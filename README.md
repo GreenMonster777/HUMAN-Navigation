@@ -6,7 +6,7 @@ An experimental, framework-independent approach to navigating mobile interfaces 
 
 ## Run the prototype
 
-Open [`demo/index.html`](demo/index.html) in a browser. No build tools, accounts, database, external libraries, microphone, camera, or GPS required.
+Open [`index.html`](index.html) in a browser. No build tools, accounts, database, external libraries, microphone, camera, or GPS required.
 
 ## Current experiment
 
@@ -44,7 +44,9 @@ The navigation component should contain no GreenMonster-specific business logic.
 
 ## License
 
-**Not selected yet.** This draft package is for review and testing; public open-source publishing should wait until a suitable license is chosen and a `LICENSE` file is added. MIT is a candidate if permissive reuse is the goal. See GitHub's licensing guidance: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+This project is released under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
